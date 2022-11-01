@@ -83,7 +83,7 @@ class _PortfolioMobileState extends State<PortfolioMobile> {
                                                 ),
                                                 contentPadding: EdgeInsets.symmetric(vertical: 10),
                                                 actions: [
-                                                  FlatButton(
+                                                  ElevatedButton(
                                                       onPressed: (){
                                                         //salvar requisição
                                                         Navigator.pop(context);
@@ -128,7 +128,7 @@ class _PortfolioMobileState extends State<PortfolioMobile> {
                                                 ),
                                                 contentPadding: EdgeInsets.symmetric(vertical: 10),
                                                 actions: [
-                                                  FlatButton(
+                                                  ElevatedButton(
                                                       onPressed: (){
                                                         //salvar requisição
                                                         Navigator.pop(context);
@@ -178,7 +178,7 @@ class _PortfolioMobileState extends State<PortfolioMobile> {
                                                 ),
                                                 contentPadding: EdgeInsets.symmetric(vertical: 10),
                                                 actions: [
-                                                  FlatButton(
+                                                  ElevatedButton(
                                                       onPressed: (){
                                                         //salvar requisição
                                                         Navigator.pop(context);
@@ -224,7 +224,7 @@ class _PortfolioMobileState extends State<PortfolioMobile> {
                                                 ),
                                                 contentPadding: EdgeInsets.symmetric(vertical: 10),
                                                 actions: [
-                                                  FlatButton(
+                                                  ElevatedButton(
                                                       onPressed: (){
                                                         //salvar requisição
                                                         Navigator.pop(context);
@@ -274,7 +274,7 @@ class _PortfolioMobileState extends State<PortfolioMobile> {
                                                 ),
                                                 contentPadding: EdgeInsets.symmetric(vertical: 10),
                                                 actions: [
-                                                  FlatButton(
+                                                  ElevatedButton(
                                                       onPressed: (){
                                                         //salvar requisição
                                                         Navigator.pop(context);
@@ -320,7 +320,7 @@ class _PortfolioMobileState extends State<PortfolioMobile> {
                                                 ),
                                                 contentPadding: EdgeInsets.symmetric(vertical: 10),
                                                 actions: [
-                                                  FlatButton(
+                                                  ElevatedButton(
                                                       onPressed: (){
                                                         Navigator.pop(context);
                                                       },
